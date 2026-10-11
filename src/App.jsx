@@ -6,8 +6,10 @@ import Register from "./temp/Register.jsx";
 import CitizenPortal from "./temp/CitizenPortal.jsx";
 import AuthorityDashboard from "./temp/AuthorityDashboard.jsx";
 import AdminDashboard from "./temp/AdminDashboard.jsx";
-import Home from "./temp/Home/Home";
-import ContactUs from "./temp/home/ContactUs";
+// import Home from "./temp/Home/Home";
+// import ContactUs from "./temp/Home/ContactUs";
+import Home from "./temp/Home/Home.jsx";
+import ContactUs from "./temp/Home/ContactUs.jsx";
 import PageLoader from "./components/PageLoader";
 import RegisterSuccess from "./temp/RegisterSuccess";
 import AdminLogout from "./temp/AdminLogout";
@@ -15,6 +17,7 @@ import ForgotPassword from "./pages/ForgotPassword";
 import VerifyEmail from "./pages/VerifyEmail";
 import ResetPassword from "./pages/ResetPassword";
 import ChangePassword from "./pages/ChangePassword";
+
 
 function App() {
   const [loading, setLoading] = useState(true);
