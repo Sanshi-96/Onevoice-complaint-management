@@ -53,9 +53,13 @@ Add your actual screenshots to `docs/screenshots/` and update the paths below.
 | Authority Dashboard | `docs/screenshots/authority-dashboard.png` |
 | Administrator Dashboard | `docs/screenshots/admin-dashboard.png` |
 
-## Live Demo
+## 🚀 Live Demo
 
-**Vercel:** [Add your deployed website URL here]
+**Explore OneVoice:** [https://onevoice-complaint-management.vercel.app/](https://onevoice-complaint-management.vercel.app/)
+
+Visit the deployed frontend to explore the OneVoice interface and its key features.
+
+> **Note:** This is a frontend deployment. Features requiring backend services or database connectivity may not be fully functional.
 
 ## Run Locally
 
